@@ -94,7 +94,7 @@
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = ({\r\n    install(vue, settings = {}) {\r\n\r\n        \r\n    }\r\n});\n\n//# sourceURL=webpack:///./index.js?");
+eval("__webpack_require__.r(__webpack_exports__);\nconst lib = {\r\n    install(vue, settings = {}) {\r\n        \r\n        \r\n    }\r\n};\r\n\r\n/* harmony default export */ __webpack_exports__[\"default\"] = (lib);\r\nwindow.vueSkeletonLoader = lib\n\n//# sourceURL=webpack:///./index.js?");
 
 /***/ })
 
