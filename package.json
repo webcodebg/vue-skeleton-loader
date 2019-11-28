@@ -1,0 +1,34 @@
+{
+  "name": "vue-skeleton-loader",
+  "version": "1.0.0",
+  "description": "Vue modern component loader",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/webcodebg/vue-skeleton-loader.git"
+  },
+  "keywords": [
+    "vue",
+    "loader",
+    "skeleton",
+    "js",
+    "vuejs",
+    "svg"
+  ],
+  "devDependencies": {
+    "@babel/core": "^7.6.4",
+    "@babel/preset-env": "^7.6.3",
+    "babel-loader": "^8.0.6",
+    "webpack": "^4.41.2",
+    "webpack-cli": "^3.3.10"
+  },
+  "author": "webcodebg",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/webcodebg/vue-skeleton-loader/issues"
+  },
+  "homepage": "https://github.com/webcodebg/vue-skeleton-loader#readme"
+}
