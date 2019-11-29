@@ -94,7 +94,7 @@
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
-eval("__webpack_require__.r(__webpack_exports__);\nconst lib = {\r\n    install(vue, settings = {}) {\r\n        \r\n        \r\n    }\r\n};\r\n\r\n/* harmony default export */ __webpack_exports__[\"default\"] = (lib);\r\nwindow.vueSkeletonLoader = lib\n\n//# sourceURL=webpack:///./index.js?");
+eval("__webpack_require__.r(__webpack_exports__);\n!(function webpackMissingModule() { var e = new Error(\"Cannot find module './src/components/SkeletonSocial'\"); e.code = 'MODULE_NOT_FOUND'; throw e; }());\n!(function webpackMissingModule() { var e = new Error(\"Cannot find module './src/components/SkeletonArticle'\"); e.code = 'MODULE_NOT_FOUND'; throw e; }());\n\r\n\r\n\r\nconst lib = {\r\n    install(vue, settings = {}) {\r\n        // TODO: components for drawing\r\n        \r\n\r\n        // Premade components\r\n        vue.component('vue-social-skeleton', !(function webpackMissingModule() { var e = new Error(\"Cannot find module './src/components/SkeletonSocial'\"); e.code = 'MODULE_NOT_FOUND'; throw e; }()))\r\n        vue.component('vue-article-skeleton', !(function webpackMissingModule() { var e = new Error(\"Cannot find module './src/components/SkeletonArticle'\"); e.code = 'MODULE_NOT_FOUND'; throw e; }()))\r\n    }\r\n};\r\n\r\n/* harmony default export */ __webpack_exports__[\"default\"] = (lib);\r\nwindow.vueSkeletonLoader = lib\n\n//# sourceURL=webpack:///./index.js?");
 
 /***/ })
 

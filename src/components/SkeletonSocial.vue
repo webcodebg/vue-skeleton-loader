@@ -1,10 +1,10 @@
 <template>
     <div>
-        Skeleton article loading
+        Skeleton Social
     </div>
-</template>
+</template>    
 <script>
 export default {
-
+    
 }
 </script>
