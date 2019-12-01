@@ -8,7 +8,7 @@ import vsLine from './src/draw/Line'
 const lib = {
     install(vue, settings = {}) {
         // TODO: components for drawing
-        vue.component('vs-line', vsLine)
+        vue.component('vs-line', vsLine) 
 
 
         // Premade components
