@@ -33,6 +33,7 @@ TODO: add docs for drawing skeletons
 
 ## Using premade skeletons
 
+TODO: create social media skeleton
 Social media post skeleton component
 
 ````html
@@ -44,6 +45,8 @@ Article skeleton component
 ````html
 <vue-article-skeleton></vue-article-skeleton>
 ````
+Preview: 
+![vue-skeleton-loader article preview](https://webcode.bg/upload/snippet.gif)
 
 # Contributions
 
